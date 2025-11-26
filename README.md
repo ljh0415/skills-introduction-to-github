@@ -36,6 +36,13 @@ In this course, you will:
 3. Open a pull request
 4. Merge your pull request
 
+### 🤖 想了解 GitHub Copilot？
+
+如果你是 GitHub 新手，想了解 AI 编程助手 GitHub Copilot 的功能，请查看我们的 **[GitHub Copilot 入门指南](COPILOT-INTRO.md)**！这份中文指南将帮助你快速了解：
+- Copilot 是什么
+- 它能帮你做什么
+- 如何开始使用
+
 ### How to start this course
 
 <!-- For start course, run in JavaScript:
