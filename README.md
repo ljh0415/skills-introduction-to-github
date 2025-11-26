@@ -36,13 +36,6 @@ In this course, you will:
 3. Open a pull request
 4. Merge your pull request
 
-### 🤖 想了解 GitHub Copilot？
-
-如果你是 GitHub 新手，想了解 AI 编程助手 GitHub Copilot 的功能，请查看我们的 **[GitHub Copilot 入门指南](COPILOT-INTRO.md)**！这份中文指南将帮助你快速了解：
-- Copilot 是什么
-- 它能帮你做什么
-- 如何开始使用
-
 ### How to start this course
 
 <!-- For start course, run in JavaScript:
@@ -75,6 +68,8 @@ In this course, you will:
 ---
 
 Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/introduction-to-github) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
+
+🤖 **New to GitHub Copilot?** Check out our [GitHub Copilot Introduction Guide (中文)](COPILOT-INTRO.md) to learn how AI can help you code!
 
 &copy; 2024 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 

@@ -61,7 +61,7 @@ Copilot 支持多种编程语言：
 
 ### 第一步：获取 Copilot
 
-1. **学生？** 通过 [GitHub Education](https://education.github.com/pack) 免费获取！
+1. **学生？** 通过 [GitHub Education Student Developer Pack](https://education.github.com/pack) 免费获取！（Copilot 包含在学生开发者包中）
 2. **个人用户** 可以订阅 [GitHub Copilot Individual](https://github.com/features/copilot)
 3. **企业用户** 可以使用 [GitHub Copilot Business](https://github.com/features/copilot)
 
@@ -102,7 +102,7 @@ Copilot 可以在这些编辑器中使用：
 - 📖 [GitHub Copilot 官方文档](https://docs.github.com/copilot)
 - 🎓 [GitHub Skills 课程](https://github.com/skills)
 - 💬 [GitHub 社区讨论](https://github.com/orgs/community/discussions)
-- 🎥 [GitHub Copilot YouTube 教程](https://www.youtube.com/github)
+- 🎥 [GitHub Copilot 视频教程](https://www.youtube.com/results?search_query=github+copilot+tutorial)
 
 ---
 
