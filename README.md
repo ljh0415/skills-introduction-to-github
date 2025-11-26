@@ -70,6 +70,8 @@ Branches allow you to separate your work from the `main` branch. In other words,
 
 Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/introduction-to-github) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
 
+🤖 **New to GitHub Copilot?** Check out our [GitHub Copilot Introduction Guide (中文)](COPILOT-INTRO.md) to learn how AI can help you code!
+
 &copy; 2024 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
 </footer>
